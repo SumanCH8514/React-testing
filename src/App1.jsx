@@ -22,6 +22,15 @@ export default function App1() {
       <button className={mButton.warning}>Warning</button>
       <br />
       <button className={mButton.success}>Success</button>
+      <h1
+        style={{ textAlign: "center", fontWeight: "bold", marginTop: "30px" }}
+      >
+        Testing to Cheack
+      </h1>
+      <br />
+      <br />
+      <br />
+      <br />
       <Footer />
     </div>
   );
